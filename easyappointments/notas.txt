@@ -1,0 +1,8 @@
+Admin
+Root123
+
+http://localhost/pro-salud.github.io/
+
+
+easyappointments/application/appointments/book_success.php ---> Admin 
+easyappointments/application/appointments/book.php ---> agendar cita 

@@ -1,0 +1,58 @@
+.box{
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.src{
+  text-align: center;
+  padding: 9px 10 px 9px 32px;
+  outline: none;
+  font-size: 18px;
+  border-radius: 25px;
+  color: #1977cc;
+  border: 3px solid #3291e6;
+  width: 65px;
+  transition: all 1s;
+}
+
+.src:hover{
+  width: 200px;
+  background-color: #fff;
+  border-color: #1977cc;
+  box-shadow: 0 0 5px #3291e6;
+}
+
+
+
+
+/*Tablas*/
+#main-container{
+  width: 100%;
+}
+
+table{
+  background-color: lightsteelblue;
+  text-align: left;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td{
+  padding: 20px;
+}
+
+thead{
+  background-color: #3291e6;
+  border-bottom: solid 5px #1977cc;
+  color: white;
+}
+
+tr:nth-child(even){
+  background-color: lightblue;
+}
+
+tr:hover td{
+  background-color: #3291e6;
+  color: white;
+}
