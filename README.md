@@ -6,3 +6,8 @@ Link gitHub Pages:
 
 El medico requiere tener acceso como administrador y poder visualizar el número de pacientes que tendrá un día hábil, también el poder visualizar y generar las recetas medicas que requiera el paciente atender.</p>
 <p align = center ><img src="https://raw.githubusercontent.com/Medica-Pro-Salud/Pro-Salud/main/img/Prospecto.png" width="500"></p>
+
+---
+
+### Figma.
+[Pantallas Figma Pro-Salud](https://www.figma.com/file/JPJ0pO6nd28ffI47OwA7bN/ProSalud?node-id=0%3A1)
