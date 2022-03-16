@@ -29,7 +29,7 @@ class Config {
     // ------------------------------------------------------------------------
     // GENERAL SETTINGS
     // ------------------------------------------------------------------------
-
+    //                      C:\xampp\htdocs\pro-salud.github.io\easyappointments
     const BASE_URL      = 'http://localhost/pro-salud.github.io/easyappointments';
     const LANGUAGE      = 'english';
     const DEBUG_MODE    = FALSE;
