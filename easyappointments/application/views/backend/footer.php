@@ -5,10 +5,10 @@
             Pro-Salud
         </a>
 
-        v<?= config('version') ?>
+        <!-- v<?= config('version') ?>
         <?php if (config('release_label')): ?>
             - <?= config('release_label') ?>
-        <?php endif ?>
+        <?php endif ?> -->
 
         |
 
@@ -16,22 +16,8 @@
         <a href="http://localhost/pro-salud.github.io/">
             Titulacion II
         </a>
-        &copy; <?= date('Y') ?> - Software Development
-
-        |
-
-        <?= lang('licensed_under') ?>
-        <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
-            GPL-3.0
-        </a>
-
-        |
-
-        <span id="select-language" class="badge badge-secondary">
-            <i class="fas fa-language mr-2"></i>
-        	<?= ucfirst(config('language')) ?>
-        </span>
-
+        &copy; <?= date('Y') ?> 
+        
         |
 
         <a href="<?= site_url('appointments') ?>">

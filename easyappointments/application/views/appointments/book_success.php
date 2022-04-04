@@ -61,10 +61,19 @@
             </div>
 
             <div class="mt-2">
-                <small>
-                    Powered by
-                    <a href="http://localhost/pro-salud.github.io/">Titulacion II</a>
-                </small>
+            <span class="footer-powered-by">
+                Desarrollado por
+                <ul href="http://localhost/pro-salud.github.io/" target="_blank">
+                Andrade Valadez José Miguel 
+                <br>
+                Hernandez Vazquez Edgar 
+                <br>
+                Martinez Garcia Cristhian 
+                <br>
+                Orta Domínguez Tristán Eduardo 
+                <br>
+                Pérez Vega Guadalupe Paola         
+            </span>
             </div>
         </div>
     </div>

@@ -67,15 +67,25 @@
 
         <a href="<?= site_url('user/forgot_password') ?>" class="forgot-password">
             <?= lang('forgot_your_password') ?></a>
-        |
-        <span id="select-language" class="badge badge-success">
-              <?= ucfirst(config('language')) ?>
-            </span>
+        
+
 
         <div class="mt-4">
             <small>
                 Powered by
-                <a href="https://easyappointments.org">Easy!Appointments</a>
+                <span class="footer-powered-by">
+                        Desarrollado por
+                        <br>
+                        Andrade Valadez José Miguel 
+                        <br>
+                        Hernandez Vazquez Edgar 
+                        <br>
+                        Martinez Garcia Cristhian 
+                        <br>
+                        Orta Domínguez Tristán Eduardo 
+                        <br>
+                        Pérez Vega Guadalupe Paola       
+                    </span>
             </small>
         </div>
     </form>

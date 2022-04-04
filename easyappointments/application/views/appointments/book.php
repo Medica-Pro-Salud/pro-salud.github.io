@@ -397,12 +397,20 @@
             <div id="frame-footer">
                 <small>
                     <span class="footer-powered-by">
-                        Powered By
-
-                        <a href="http://localhost/pro-salud.github.io/" target="_blank">Titulacion II</a>
+                        Desarrollado por
+                        <br>
+                        Andrade Valadez José Miguel 
+                        <br>
+                        Hernandez Vazquez Edgar 
+                        <br>
+                        Martinez Garcia Cristhian 
+                        <br>
+                        Orta Domínguez Tristán Eduardo 
+                        <br>
+                        Pérez Vega Guadalupe Paola       
                     </span>
 
-                    <span class="footer-options">
+                    <!-- <span class="footer-options">
                         <span id="select-language" class="badge badge-secondary">
                             <i class="fas fa-language mr-2"></i>
                             <?= ucfirst(config('language')) ?>
@@ -412,7 +420,7 @@
                             <i class="fas fa-sign-in-alt mr-2"></i>
                             <?= $this->session->user_id ? lang('backend_section') : lang('login') ?>
                         </a>
-                    </span>
+                    </span> -->
                 </small>
             </div>
         </div>
