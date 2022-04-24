@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#35A768">
 
-    <title><?= lang('log_out') ?> | Easy!Appointments</title>
+    <title><?= lang('log_out') ?> | Titulacion II</title>
 
     <link rel="stylesheet" type="text/css" href="<?= asset_url('assets/ext/bootstrap/css/bootstrap.min.css') ?>">
     <link rel="stylesheet" type="text/css" href="<?= asset_url('assets/css/logout.css') ?>">
@@ -40,13 +40,25 @@
 
     <a href="<?= site_url('backend') ?>" class="btn btn-outline-secondary btn-large">
         <i class="fas fa-wrench mr-2"></i>
-        <?= lang('backend_section') ?>
+        <i>Control de Administracion</i>
+        <!-- <?= lang('backend_section') ?> -->
     </a>
 
     <div class="mt-4">
         <small>
-            Powered by
-            <a href="https://easyappointments.org">Easy!Appointments</a>
+            <span class="footer-powered-by">
+                Desarrollado por
+                <br>
+                Andrade Valadez José Miguel 
+                <br>
+                Hernandez Vazquez Edgar 
+                <br>
+                Martinez Garcia Cristhian 
+                <br>
+                Orta Domínguez Tristán Eduardo 
+                <br>
+                Pérez Vega Guadalupe Paola       
+            </span>
         </small>
     </div>
 </div>

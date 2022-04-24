@@ -6,3 +6,11 @@ http://localhost/pro-salud.github.io/
 
 easyappointments/application/appointments/book_success.php ---> Admin 
 easyappointments/application/appointments/book.php ---> agendar cita 
+
+
+easyappointments/controllers/views/backend/
+easyappointments/controllers/views/backend/
+
+
+
+easyappointments/application/views/appointments/book --> seleccione servicio y proveedor  pagina 1

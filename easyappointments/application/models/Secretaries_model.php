@@ -1,5 +1,6 @@
 <?php defined('BASEPATH') or exit('No direct script access allowed');
 
+
 /* ----------------------------------------------------------------------------
  * Easy!Appointments - Open Source Web Scheduler
  *

@@ -49,7 +49,7 @@
 
             <div class="mt-2">
                 <small>
-                    Powered by
+                    Powered byl
                     <a href="https://easyappointments.org">Easy!Appointments</a>
                 </small>
             </div>
