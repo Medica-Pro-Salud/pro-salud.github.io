@@ -1144,7 +1144,8 @@ section {
 }
 
 .departments .details p {
-  color: #777777;
+  color: black;
+  font-size: 16px;
 }
 
 .departments .details p:last-child {
