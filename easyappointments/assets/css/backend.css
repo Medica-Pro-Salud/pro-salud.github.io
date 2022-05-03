@@ -148,7 +148,7 @@ body .modal .modal-title {
 
 body .modal-header {
     padding: 20px 15px;
-    background: #429a82;
+    background: #fff; /*mike*/
 }
 
 body .modal-header h3 {
