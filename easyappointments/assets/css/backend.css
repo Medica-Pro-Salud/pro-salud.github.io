@@ -200,11 +200,11 @@ body .jspDrag {
 }
 
 body .jspTrack {
-    background: #EBEBEB;
+    background: #000;
 }
 
 body legend {
-    color: #666;
+    color: #000;
 }
 
 @media (min-width: 768px) {
@@ -255,7 +255,7 @@ body legend {
 
 .backend-page .filter-records .results .entry.selected {
     background-color: #F4F4F4;
-    border-right: 5px solid #429a82;
+    border-right: 5px solid #fff;
 }
 
 .backend-page .filter-records .results hr {
